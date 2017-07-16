@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/file">
+        <file>001.csv</file>
+        <file>2.csv</file>
+        <file>3.csv</file>
+    </qresource>
+    <qresource prefix="/imagine">
+        <file>1.jpg</file>
+        <file>com.png</file>
+        <file>apt.png</file>
+        <file>peo.png</file>
+        <file>pro.png</file>
+    </qresource>
+</RCC>
